@@ -1,5 +1,4 @@
-## KUSODOMAIN-SEARCH
-辞書データからドメイン見つける？
+## DOMAIN-GENERATOR
 
 tld-list-basic.csv(ドメインデータ)  
 https://ja.tld-list.com/%E3%83%95%E3%83%AA%E3%83%BC-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89
